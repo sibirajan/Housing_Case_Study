@@ -36,9 +36,9 @@ Visualisation   : Python, MS Powerpoint
 
 
 ## CONCLUSION
+We can see that lasso model is more better as the r2 scores are very near to each other which means the model is generalizing very good on unseen test data as well.
 
-
-## RECOMMENDATIONS
+Optimal values of Lasso is 0.001 and for Ridge it is 10
 
 
 ## AUTHOR
